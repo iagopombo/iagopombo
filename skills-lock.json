@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "muapi-nano-banana": {
+      "source": "SamurAIGPT/Generative-Media-Skills",
+      "sourceType": "github",
+      "skillPath": ".opencode/skills/muapi-nano-banana/SKILL.md",
+      "computedHash": "b5516f5f1a6ecf0d6bd41f27c086294aa8f5f692d8e8de5eebfffe7c60c409cc"
+    }
+  }
+}
