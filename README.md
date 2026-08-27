@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Iago+Pombo+%F0%9F%91%8B;Backend+Developer+%7C+Java+17+%26+21;Autodidacta+%7C+Siempre+aprendiendo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Iago+Pombo+%F0%9F%91%8B;Backend+Developer+%7C+Java+17+%26+21;Autodidacto+%7C+Siempre+aprendiendo" alt="Typing SVG" />
 
 </div>
 
 <p align="center">
   Desarrollador <b>Backend</b> especializado en <b>Java 17 y 21</b>, con Spring Boot como base habitual.<br>
-  Autodidacta: si una tecnología no la domino todavía, la aprendo sobre la marcha.
+  Autodidacto: si una tecnología no la domino todavía, la aprendo sobre la marcha.
 </p>
 
 <p align="center">
@@ -60,17 +60,6 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 <br>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-eight-flax.vercel.app/api?username=iagopombo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-eight-flax.vercel.app/api/top-langs/?username=iagopombo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=iagopombo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <hr>
 
