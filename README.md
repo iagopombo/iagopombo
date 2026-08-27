@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/iagopombo/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
   <a href="mailto:iagopombo@gmail.com?subject=Hi%20Iago%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+  <img src="https://komarev.com/ghpvc/?username=iagopombo&style=for-the-badge&color=2F81F7&label=VISITAS" alt="Visitor Count" />
 </p>
 
 <hr>
@@ -63,8 +64,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iagopombo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagopombo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-eight-flax.vercel.app/api?username=iagopombo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight-flax.vercel.app/api/top-langs/?username=iagopombo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
